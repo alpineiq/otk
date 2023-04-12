@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"testing"
 
-	"go.oneofone.dev/otk"
+	"github.com/alpineiq/otk"
 )
 
 func TestCaller(t *testing.T) {

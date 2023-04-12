@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"testing"
 
-	"go.oneofone.dev/otk"
+	"github.com/alpineiq/otk"
 )
 
 func TestTar(t *testing.T) {

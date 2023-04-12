@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"go.oneofone.dev/genh"
+	"github.com/alpineiq/genh"
 	"go.oneofone.dev/oerrs"
 )
 

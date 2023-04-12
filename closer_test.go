@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"go.oneofone.dev/genh"
+	"github.com/alpineiq/genh"
 )
 
 type closable struct {
